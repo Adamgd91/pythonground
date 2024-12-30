@@ -1,4 +1,5 @@
 name = "adam"
+age = 34
 print(name)
 
 def testing():

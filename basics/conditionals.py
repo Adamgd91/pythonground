@@ -1,10 +1,7 @@
-is_student = False
+your_age = int(input("What is your age? "))
+age= 22
 
-
-def students(is_online):
-    if is_online:
-        print("Online")
-    else:
-        print("Offline")
-    
-students(False)
+if your_age >= 21:
+    print(f'You can drink since you are {your_age - 21} years above the drinking cutoff! ')
+else:
+    print(f'You can NOT drink!')

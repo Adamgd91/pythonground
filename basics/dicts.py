@@ -2,7 +2,7 @@ books = {
     "LOTR" : 432,
     "Potter" : 333,
     "Fourth Wing": 392,
-    "Authors": ["Adam", "Sarah", "Julia"]
+    "Authors": ["Adam", "Sarah", "Julias"]
 }
 
 print(books.values())

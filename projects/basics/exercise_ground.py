@@ -28,8 +28,6 @@ my_skills = ['Python', 'SQL', 'Excel']
 # Determine which jobs you're qualified for 
 qualified_roles = []
 
-
-
 for my_job in job_roles:
     # Initialize qualified flag
     set_qualified = True

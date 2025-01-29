@@ -12,3 +12,14 @@ print(type(salary_rate))
 
 
 print(f'I will become a {upper_job_title} and enjoy the tough times and the GOOD times!')
+
+
+myvar = "hello"
+nextt = myvar.upper()
+print(nextt)
+
+x = 1/1
+print(type(x))
+
+fun = "Fun Python"
+print(fun[0:5])

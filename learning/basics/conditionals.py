@@ -26,5 +26,5 @@ elif unit == "L":
     unit = "Kgs"
     print(f'Your weight is: {round(my_weight, 2)} {unit}!')
 else:
-    print(f'{unit} was not valid')
+    print(f'{unit} was not valid!')
 

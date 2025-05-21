@@ -1,5 +1,6 @@
 age = 34
 name = "Adam Davidson"
+programmer = True
 print(age)
 print(name)
 

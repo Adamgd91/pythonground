@@ -6,6 +6,16 @@ bath = 9.50
 
 # Create list areas
 areas = [hall, kit, liv, bed, bath]
-
 # Print areas
 print(areas)
+print(areas[2])
+
+# House information as list of lists
+house = [["hallway", hall],
+         ["kitchen", kit],
+         ["living room", liv],
+        ["bedroom", bed],
+        ["bathroom", bath]]
+
+# Print out house
+print(house)

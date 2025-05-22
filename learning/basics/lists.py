@@ -19,3 +19,4 @@ house = [["hallway", hall],
 
 # Print out house
 print(house)
+bathroom_length = house[-1][1]

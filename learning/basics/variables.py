@@ -6,4 +6,4 @@ print(name)
 
 print(f'My name: {name} and I am {age}!')
 
-print(n)
+print(name)

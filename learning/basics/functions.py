@@ -21,7 +21,11 @@ ages = [23, 34, 54, 31, 21, 77, 87, 21]
 
 def oldest():
     the_oldest = max(ages)
+    sorted_age = sorted(ages)
     print(the_oldest)
     print(f'Ages list length is: {len(ages)}')
+    print(sorted_age)
+    print(ages.count(21))
+    print(ages.index(34))
     
 oldest()

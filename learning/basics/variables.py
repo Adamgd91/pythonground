@@ -7,3 +7,6 @@ print(name)
 print(f'My name: {name} and I am {age}!')
 
 print(name)
+
+career = "Machine Learning Engineer!"
+is_ML = False

@@ -10,3 +10,8 @@ print(name)
 
 career = "Machine Learning Engineer!"
 is_ML = False
+
+up_name = name.upper()
+count_name = name.count("a")
+print(count_name)
+print(up_name)
